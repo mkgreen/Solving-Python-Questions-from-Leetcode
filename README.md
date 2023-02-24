@@ -10,4 +10,6 @@ Milo
 
 # Notebooks by question:
 1. [Palindrome Number](https://github.com/mkgreen/Solving-Python-Questions-from-Leetcode/blob/main/Leetcode_Palindrome_Number.ipynb)
-  - Given an integer x, return true if x is a palindrome, and false otherwise.
+   - Given an integer x, return true if x is a palindrome, and false otherwise.
+2. [Roman to Integer](https://github.com/mkgreen/Solving-Python-Questions-from-Leetcode/blob/main/RomantoInteger.ipynb)
+    - Given a roman numeral, convert it to an integer.
