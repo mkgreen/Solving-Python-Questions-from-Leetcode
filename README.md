@@ -15,3 +15,5 @@ Milo
     - Given a roman numeral, convert it to an integer.
 3. [Longest Common Prefix](https://github.com/mkgreen/Solving-Python-Questions-from-Leetcode/blob/main/Leetcode_Longest_Common_Prefix.ipynb)
    - Write a function to find the longest common prefix string amongst an array of strings.
+4. [Valid Parentheses](https://github.com/mkgreen/Solving-Python-Questions-from-Leetcode/blob/main/Leetcode_Valid_Parentheses.ipynb)
+   - Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
