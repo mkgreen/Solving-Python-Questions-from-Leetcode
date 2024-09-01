@@ -6,7 +6,7 @@ If you need assistance with any of the questions I have yet to publish, please e
 
 Happy coding,
 
-Milo
+Milo 
 
 # Notebooks by question:
 1. [Palindrome Number](https://github.com/mkgreen/Solving-Python-Questions-from-Leetcode/blob/main/Leetcode_Palindrome_Number.ipynb)
